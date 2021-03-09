@@ -1,0 +1,13 @@
+{
+  "hosting": {
+    "site": "womens-day-2021",
+    "public": "build",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

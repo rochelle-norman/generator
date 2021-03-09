@@ -1,0 +1,14 @@
+{
+  "name": "womens-day-2021",
+  "lang": { "name": "fe", "version": "14" },
+  "cmd": { "build": "npm run build", "lint": "", "setup": "npm i", "test": "" },
+  "svcs": null,
+  "release": { "type": "" },
+  "deploy": {
+    "type": "firebase",
+    "url": "https://women.thisissoon.com/",
+    "name": "womens-day-2021",
+    "chartName": "",
+    "chartVersion": ""
+  }
+}

@@ -1,6 +1,6 @@
 # About
 
-Generator created with [Create React App](https://github.com/facebook/create-react-app).
+She created a random generator built for international womens day
 
 ## Available Scripts
 
@@ -33,3 +33,5 @@ This project uses storybook to preview components in isolation.
 ```bash
 npm run storybook
 ```
+### `To Do`
+Add data to DB
